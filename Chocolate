@@ -1,171 +1,107 @@
-body{
+# 🍫 Chocolate Sales Dashboard
 
-margin:0;
+## Overview
 
-font-family:Arial, Helvetica, sans-serif;
+This Power BI dashboard provides an interactive analysis of chocolate sales performance across multiple countries, products, salespeople, and time periods. It enables users to monitor key business metrics, identify sales trends, and make data-driven decisions through dynamic visualisations and KPIs.
 
-background:#f5f5f5;
+---
 
-color:#333;
+## Dashboard Preview
 
-}
+![Chocolate Sales Dashboard](images/chocolate-dashboard.png)
 
-header{
+> Replace `images/chocolate-dashboard.png` with the path to your dashboard screenshot.
 
-background:#24292e;
+---
 
-color:white;
+## Key Features
 
-padding:50px;
+- 📈 Revenue, Profit and Order KPI cards
+- 🌍 Sales analysis by country
+- 🍫 Product performance analysis
+- 👥 Salesperson performance comparison
+- 📅 Monthly sales trend analysis
+- 🎯 Interactive slicers for filtering data
+- 📊 Dynamic charts and visualisations
+- ⚡ Built using a star schema data model
 
-text-align:center;
+---
 
-}
+## Skills Demonstrated
 
-nav{
+- Power BI
+- DAX
+- Power Query
+- Data Modelling
+- Data Cleaning
+- KPI Design
+- Interactive Dashboard Development
+- Business Intelligence
 
-display:flex;
+---
 
-justify-content:center;
+## DAX Measures Used
 
-gap:30px;
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- Average Order Value
+- Sales YTD
+- Customer Rank
 
-background:#0366d6;
+---
 
-padding:15px;
+## Dataset
 
-}
+The dashboard was created using a fictional chocolate sales dataset containing:
 
-nav a{
+- Sales
+- Customers
+- Products
+- Salespeople
+- Geography
+- Calendar
 
-color:white;
+---
 
-text-decoration:none;
+## Project Files
 
-font-weight:bold;
+| File | Description |
+|------|-------------|
+| `Chocolate Sales Dashboard.pbix` | Power BI project |
+| `Chocolate Sales Dataset.xlsx` | Source dataset |
+| `README.md` | Project documentation |
 
-}
+---
 
-section{
+## View the Interactive Dashboard
 
-padding:60px;
+🔗 **Power BI Report:**  
+https://YOUR-POWERBI-LINK-HERE
 
-max-width:1200px;
+---
 
-margin:auto;
+## Repository
 
-}
+🔗 **GitHub Repository:**  
+https://github.com/YOUR-USERNAME/PowerBI-Portfolio
 
-.cards{
+---
 
-display:grid;
+## Dashboard Screenshot
 
-grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+<p align="center">
+<img src="images/chocolate-dashboard.png" width="900">
+</p>
 
-gap:30px;
+---
 
-}
+## Author
 
-.card{
+**Ayush Buch**
 
-background:white;
+Aspiring Power BI Developer
 
-border-radius:12px;
+GitHub: https://github.com/YOUR-USERNAME
 
-box-shadow:0 5px 15px rgba(0,0,0,.1);
-
-overflow:hidden;
-
-transition:.3s;
-
-}
-
-.card:hover{
-
-transform:translateY(-8px);
-
-}
-
-.card img{
-
-width:100%;
-
-height:220px;
-
-object-fit:cover;
-
-}
-
-.card h3{
-
-padding:20px;
-
-}
-
-.card p{
-
-padding:0 20px;
-
-}
-
-.card a{
-
-display:block;
-
-margin:20px;
-
-padding:12px;
-
-background:#0366d6;
-
-color:white;
-
-text-align:center;
-
-text-decoration:none;
-
-border-radius:6px;
-
-}
-
-ul{
-
-display:grid;
-
-grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
-
-gap:15px;
-
-list-style:none;
-
-padding:0;
-
-}
-
-li{
-
-background:white;
-
-padding:15px;
-
-border-radius:8px;
-
-text-align:center;
-
-box-shadow:0 5px 10px rgba(0,0,0,.1);
-
-}
-
-footer{
-
-background:#24292e;
-
-color:white;
-
-text-align:center;
-
-padding:25px;
-
-margin-top:50px;
-
-}
+LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
