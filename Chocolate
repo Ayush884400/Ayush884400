@@ -1,107 +1,38 @@
-# 🍫 Chocolate Sales Dashboard
-
-## Overview
-
-This Power BI dashboard provides an interactive analysis of chocolate sales performance across multiple countries, products, salespeople, and time periods. It enables users to monitor key business metrics, identify sales trends, and make data-driven decisions through dynamic visualisations and KPIs.
-
----
-
-## Dashboard Preview
-
-![Chocolate Sales Dashboard](images/chocolate-dashboard.png)
-
-> Replace `images/chocolate-dashboard.png` with the path to your dashboard screenshot.
-
----
-
-## Key Features
-
-- 📈 Revenue, Profit and Order KPI cards
-- 🌍 Sales analysis by country
-- 🍫 Product performance analysis
-- 👥 Salesperson performance comparison
-- 📅 Monthly sales trend analysis
-- 🎯 Interactive slicers for filtering data
-- 📊 Dynamic charts and visualisations
-- ⚡ Built using a star schema data model
-
----
-
-## Skills Demonstrated
-
-- Power BI
-- DAX
-- Power Query
-- Data Modelling
-- Data Cleaning
-- KPI Design
-- Interactive Dashboard Development
-- Business Intelligence
-
----
-
-## DAX Measures Used
-
-- Total Revenue
-- Total Profit
-- Profit Margin %
-- Average Order Value
-- Sales YTD
-- Customer Rank
-
----
-
-## Dataset
-
-The dashboard was created using a fictional chocolate sales dataset containing:
-
-- Sales
-- Customers
-- Products
-- Salespeople
-- Geography
-- Calendar
-
----
-
-## Project Files
-
-| File | Description |
-|------|-------------|
-| `Chocolate Sales Dashboard.pbix` | Power BI project |
-| `Chocolate Sales Dataset.xlsx` | Source dataset |
-| `README.md` | Project documentation |
-
----
-
-## View the Interactive Dashboard
-
-🔗 **Power BI Report:**  
-https://YOUR-POWERBI-LINK-HERE
-
----
-
-## Repository
-
-🔗 **GitHub Repository:**  
-https://github.com/YOUR-USERNAME/PowerBI-Portfolio
-
----
-
-## Dashboard Screenshot
+<h1 align="center">🍫 Chocolate Sales Dashboard</h1>
 
 <p align="center">
-<img src="images/chocolate-dashboard.png" width="900">
+  An interactive Power BI dashboard analysing chocolate sales performance, customer trends, and product insights.
 </p>
 
----
+<br>
 
-## Author
+<div align="center">
+  <img src="chocolate-dashboard.png" alt="Chocolate Dashboard Preview" width="800">
+</div>
 
-**Ayush Buch**
+<br>
 
-Aspiring Power BI Developer
+<h2>📊 Project Description</h2>
 
-GitHub: https://github.com/YOUR-USERNAME
+<p>
+This dashboard was created using Power BI to explore chocolate sales data and provide insights into revenue, sales trends, product performance, and customer behaviour.
 
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+The project demonstrates data cleaning, data modelling, DAX calculations, and interactive visualisation techniques to transform raw sales data into meaningful business insights.
+</p>
+
+<h2>🔗 View Dashboard</h2>
+
+<p>
+  <a href="https://app.powerbi.com/" target="_blank">
+    View Power BI Dashboard
+  </a>
+</p>
+
+<h2>🛠️ Tools Used</h2>
+
+<ul>
+  <li>Power BI</li>
+  <li>DAX</li>
+  <li>Power Query</li>
+  <li>Excel</li>
+</ul>
