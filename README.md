@@ -109,8 +109,7 @@ Budget vs Actual reporting with forecasting and KPI tracking.
 
 </p>
 
-<a href="Finance Dashboard/">View Project</a>
-
+<a href="Chocolate/README.md">View Project</a>
 </div>
 
 </div>
