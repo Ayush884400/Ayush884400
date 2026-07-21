@@ -109,7 +109,7 @@ Budget vs Actual reporting with forecasting and KPI tracking.
 
 </p>
 
-<a href="Chocolate/README.md">View Project</a>
+<a href="https://github.com/Ayush884400/ChocolateDashboard/blob/main/README.md">View Project</a>
 </div>
 
 </div>
