@@ -85,7 +85,7 @@ Customer segmentation, rankings and revenue analysis using advanced DAX.
 
 <img src="images/hr-dashboard.png">
 
-<h3>HR Dashboard</h3>
+<h3>Sales Dashboard</h3>
 
 <p>
 
@@ -101,7 +101,7 @@ Employee demographics, attrition and workforce insights.
 
 <img src="images/finance-dashboard.png">
 
-<h3>Finance Dashboard</h3>
+<h3>Chocolate Dashboard</h3>
 
 <p>
 
@@ -147,11 +147,7 @@ Budget vs Actual reporting with forecasting and KPI tracking.
 
 <h2>Contact</h2>
 
-<p>Email: your@email.com</p>
-
-<p>LinkedIn: linkedin.com/in/yourname</p>
-
-<p>GitHub: github.com/yourusername</p>
+<p>Email: ayushbuch@gmail.com</p>
 
 </section>
 
@@ -160,8 +156,6 @@ Budget vs Actual reporting with forecasting and KPI tracking.
 <p>© 2026 Ayush Buch</p>
 
 </footer>
-
-<script src="script.js"></script>
 
 </body>
 
