@@ -61,7 +61,7 @@ Executive dashboard analysing sales performance across regions, products and cus
 
 </p>
 
-<a href="Sales Dashboard/">View Project</a>
+<a href="https://github.com/Ayush884400/FinanceDashboard">View Project</a>
 
 </div>
 
