@@ -85,18 +85,6 @@ Execustive dashboard that portrays over statices about a compaines performance.
 
 <img src="images/hr-dashboard.png">
 
-<h3>Sales Dashboard</h3>
-
-<p>
-
-Employee demographics, attrition and workforce insights.
-
-</p>
-
-<a href="HR Dashboard/">View Project</a>
-
-</div>
-
 <div class="card">
 
 <img src="images/finance-dashboard.png">
