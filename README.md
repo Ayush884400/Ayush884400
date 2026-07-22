@@ -66,7 +66,7 @@ Execustive dashboard that portrays over statices about a compaines performance.
 
 </p>
 
-<a href="Customer Analytics/">View Project</a>
+<a href="https://github.com/Ayush884400/Executive">View Project</a>
 
 </div>
 
