@@ -60,7 +60,7 @@ Executive dashboard analysing sales performance across regions, products and cus
 
 <div class="card">
 
-<h3>Execustive Daahboard</h3>
+<h3>Execustive Dashboard</h3>
 
 <p>
 
