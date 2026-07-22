@@ -69,11 +69,11 @@ Executive dashboard analysing sales performance across regions, products and cus
 
 <img src="images/customer-dashboard.png">
 
-<h3>Customer Analytics</h3>
+<h3>Execustive Daahboard</h3>
 
 <p>
 
-Customer segmentation, rankings and revenue analysis using advanced DAX.
+Execustive dashboard that portrays over statices about a compaines performance.
 
 </p>
 
