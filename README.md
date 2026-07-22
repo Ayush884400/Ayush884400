@@ -20,24 +20,21 @@
 
 </header>
 
-<nav>
-
-<a href="#about">About</a>
-<a href="#projects">Projects</a>
-<a href="#skills">Skills</a>
-<a href="#contact">Contact</a>
-
-</nav>
-
 <section id="about">
 
 <h2>About Me</h2>
 
 <p>
 
-I am an aspiring Power BI Developer with experience building interactive dashboards using Power BI, SQL, Excel and DAX.
+# About Me
 
-I enjoy transforming raw data into meaningful business insights through data modelling, visualisation and analytics.
+I am a Computer Science graduate with a strong interest in data analytics, business intelligence, and transforming data into meaningful insights. I am currently developing my experience in Power BI through personal projects while preparing to offer data analysis and dashboard development as a freelance service.
+
+My experience with Power BI includes the complete analytics workflow, from importing and cleaning raw data using Power Query to building efficient data models and creating DAX measures that deliver valuable business insights. I design interactive dashboards that are not only visually appealing but also communicate a clear story, enabling stakeholders to understand trends, monitor performance, and make informed decisions.
+
+Alongside Power BI, I have a solid foundation in SQL and enjoy writing queries to extract, transform, and analyse data from relational databases. My Computer Science degree has provided me with strong analytical, problem-solving, and programming skills, allowing me to approach data challenges with a structured and logical mindset.
+
+I am passionate about continuous learning and enjoy working with real world datasets to improve my technical skills and deliver high-quality, data driven solutions. My goal is to help organisations transform complex data into clear, actionable insights through effective data modelling, visualisation, and storytelling.
 
 </p>
 
@@ -63,8 +60,6 @@ Executive dashboard analysing sales performance across regions, products and cus
 
 <div class="card">
 
-<img src="images/customer-dashboard.png">
-
 <h3>Execustive Daahboard</h3>
 
 <p>
@@ -78,8 +73,6 @@ Execustive dashboard that portrays over statices about a compaines performance.
 </div>
 
 <div class="card">
-
-<img src="images/hr-dashboard.png">
 
 <div class="card">
 
