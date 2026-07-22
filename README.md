@@ -26,8 +26,6 @@
 
 <p>
 
-# About Me
-
 I am a Computer Science graduate with a strong interest in data analytics, business intelligence, and transforming data into meaningful insights. I am currently developing my experience in Power BI through personal projects while preparing to offer data analysis and dashboard development as a freelance service.
 
 My experience with Power BI includes the complete analytics workflow, from importing and cleaning raw data using Power Query to building efficient data models and creating DAX measures that deliver valuable business insights. I design interactive dashboards that are not only visually appealing but also communicate a clear story, enabling stakeholders to understand trends, monitor performance, and make informed decisions.
