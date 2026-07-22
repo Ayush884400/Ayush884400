@@ -116,8 +116,6 @@ Chocolate sales for a company are viewed in a visual dashboard summing up all th
 
 <li>Data Modelling</li>
 
-<li>Python</li>
-
 <li>GitHub</li>
 
 </ul>
