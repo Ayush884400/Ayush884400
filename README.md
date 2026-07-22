@@ -47,11 +47,7 @@ I enjoy transforming raw data into meaningful business insights through data mod
 
 <h2>Featured Projects</h2>
 
-<div class="cards">
-
 <div class="card">
-
-<img src="images/sales-dashboard.png">
 
 <h3>Sales Dashboard</h3>
 
@@ -87,13 +83,11 @@ Execustive dashboard that portrays over statices about a compaines performance.
 
 <div class="card">
 
-<img src="images/finance-dashboard.png">
-
 <h3>Chocolate Dashboard</h3>
 
 <p>
 
-Budget vs Actual reporting with forecasting and KPI tracking.
+Chocolate sales for a company are viewed in a visual dashboard summing up all the data a bussiness needs for decison making
 
 </p>
 
